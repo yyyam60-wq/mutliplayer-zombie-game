@@ -11,9 +11,9 @@ A real-time multiplayer zombie survival game built in Unity.
 
 ## Features
 - Online and offline game modes
-- 6 weapons with inheritance-based weapon system
+- 6 weapons
 - Full lobby system with room creation and joining
-- Host migration handling
+- Creating account including ID ,Username and Password
 - Player health, stamina and points system
 - Spectate camera on death
 
