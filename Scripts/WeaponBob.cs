@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityStandardAssets.Characters.FirstPerson;
+// This code was copied from somone else
 
 public class WeaponBob : MonoBehaviour
 {
